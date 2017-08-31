@@ -1,0 +1,4 @@
+C:\repo\interview\CustomerService.API\CustomerService.Model\bin\Debug\CustomerService.Model.dll
+C:\repo\interview\CustomerService.API\CustomerService.Model\bin\Debug\CustomerService.Model.pdb
+C:\repo\interview\CustomerService.API\CustomerService.Model\obj\Debug\CustomerService.Model.dll
+C:\repo\interview\CustomerService.API\CustomerService.Model\obj\Debug\CustomerService.Model.pdb

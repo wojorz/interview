@@ -1,0 +1,11 @@
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\CustomerService.BLL.dll
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\CustomerService.BLL.pdb
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\CustomerService.Model.dll
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\CustomerService.Repository.dll
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\CustomerService.Model.pdb
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\CustomerService.Repository.pdb
+C:\repo\interview\CustomerService.API\CustomerService.BLL\obj\Debug\CustomerService.BLL.csprojResolveAssemblyReference.cache
+C:\repo\interview\CustomerService.API\CustomerService.BLL\obj\Debug\CustomerService.BLL.dll
+C:\repo\interview\CustomerService.API\CustomerService.BLL\obj\Debug\CustomerService.BLL.pdb
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\EntityFramework.dll
+C:\repo\interview\CustomerService.API\CustomerService.BLL\bin\Debug\EntityFramework.xml

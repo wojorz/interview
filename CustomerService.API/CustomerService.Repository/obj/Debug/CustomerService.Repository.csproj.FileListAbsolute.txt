@@ -1,0 +1,12 @@
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\CustomerService.Repository.dll
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\CustomerService.Repository.pdb
+C:\repo\interview\CustomerService.API\CustomerService.Repository\obj\Debug\CustomerService.Repository.csprojResolveAssemblyReference.cache
+C:\repo\interview\CustomerService.API\CustomerService.Repository\obj\Debug\CustomerService.Repository.dll
+C:\repo\interview\CustomerService.API\CustomerService.Repository\obj\Debug\CustomerService.Repository.pdb
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\CustomerService.Repository.dll.config
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\CustomerService.Model.dll
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\EntityFramework.dll
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\CustomerService.Model.pdb
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\EntityFramework.xml
+C:\repo\interview\CustomerService.API\CustomerService.Repository\bin\Debug\EntityFramework.SqlServer.xml
